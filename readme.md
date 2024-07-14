@@ -32,7 +32,10 @@ Output:
 -- Akrom Malik ning Halqa kitobi o’qilmagan
 -- O’tkir Hoshimov ning Dunyoning ishlari kitobi o’qilgan
 -- Shayx Muhammad Sodiq Muhammad Yusuf hazratlarining Iymon kitobi o’qilgan
--- String lar arrayi berilgan. Shunday object hosil qilinki o’sha object kalitlari array elementlaridan va qiymatlari ularning uzuligindan iborat bo’lsin
+
+---------------------------------------------------------------------------------------------------------------------
+
+4. String lar arrayi berilgan. Shunday object hosil qilinki o’sha object kalitlari array elementlaridan va qiymatlari ularning uzuligindan iborat bo’lsin
 
 
 Input: [”text”, “world”, “laptop”]
